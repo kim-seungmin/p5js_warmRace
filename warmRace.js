@@ -40,7 +40,7 @@ function showName(){
 function checkEnd(){
 
   if(posA>finishLine){
-    alert("warm 1"+nameA+" win!");
+    alert("warm 1 "+nameA+" win!");
     posA=0;
     posB=0;
   }if(posB>finishLine){
